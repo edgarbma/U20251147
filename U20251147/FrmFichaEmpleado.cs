@@ -1,5 +1,18 @@
 namespace U20251147
 {
+
+    /*Edgar Rigofredo Bermúdez Magaña codigo U20251147
+     Mi autoevaluación es de 8.5
+     Lo que me sale bien:
+
+    Supe cómo hacer que los textBox solo acepten letras o números con la tecla que presiono (KeyPress).
+    Le puse ganas para que el DUI lleve el guion solo y se vea más chivo, use herramientas externas como .
+    Encontré un poco de dificultad en las condiciones dentro de los if, ya que para mi es nuevo lenguaje, soy nuevo usando C#.
+    Revisar bien que los nombres de los textBox en la pantalla se llamen igual en el código.
+    
+    Deberia de mejorar el uso de las opciones que ya trae el programa como MaxLength para no complicarme tanto.
+    Revisar siempre que no queden las casillas vacías antes de guardar. */ 
+
     public partial class FrmFichaEmpleado : Form
     {
         public FrmFichaEmpleado()
